@@ -1,0 +1,12 @@
+
+[1mFrom:[0m /home/george/phase-3-enumerables-lab/enumerables.rb:80 :
+
+    [1;34m75[0m:   [1;34m# your code here[0m
+    [1;34m76[0m: [32mend[0m
+    [1;34m77[0m: 
+    [1;34m78[0m: 
+    [1;34m79[0m: print_spicy_foods(spicy_foods)
+ => [1;34m80[0m: binding.pry
+    [1;34m81[0m: 
+    [1;34m82[0m: 
+
